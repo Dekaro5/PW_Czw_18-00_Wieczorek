@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Programming in Practice [![release](https://img.shields.io/github/release/mpostol/tp.svg?style=flat)](https://github.com/mpostol/TP/releases)
 
 ## Key words
@@ -207,3 +208,13 @@ You may check out the document [References](REFERENCES.md) to encounter other re
 //_____________________________________________________________________________________________________________________________________
 [![Build Status](https://caseu.visualstudio.com/TP/_apis/build/status/mpostol.TP?branchName=master)](https://caseu.visualstudio.com/TP/_build/latest?definitionId=2&branchName=master) - Build Status
 -->
+=======
+# Concurrent programming
+
+## Working Group
+
+| Name Surname (initials) |  Nr Indeksu  | GUID                                     |
+| ----------------------- | ------------ |---------------------------------------- |
+| Jakub Bariasz           | 251479       |`{c4c8ca70-4785-495b-9e48-e3b3c10e9f19}` |
+| Arkadiusz Owczarek      | 251602       |`{10057248-446e-4a9c-a2ad-e0bd95371159}` |
+>>>>>>> 6e52b87a62e75d32cea7dae75e36c229c7ebb4fa
